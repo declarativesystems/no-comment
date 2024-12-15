@@ -24,10 +24,10 @@ enabled = true
 # - https://developers.cloudflare.com/workers/configuration/secrets/
 
 [vars]
-GITHUB_OWNER = "changeme"
-GITHUB_REPO  = "changeme"
+GITHUB_OWNER = "declarativesystems"
+GITHUB_REPO  = "declarativesystems.com"
 GIT_AUTHOR = "No Comment"
-GIT_EMAIL = "changeme"
+GIT_EMAIL = "nocomment@declarativesystems.com"
 GIT_BRANCH_TO_MERGE_INTO = "master"
 COMMENT_DIR = "_data/comments"
 
